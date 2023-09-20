@@ -1,0 +1,43 @@
+header {
+    font-size: 50px;
+    font-family: fantasy;
+    text-align: center;
+    text-decoration: underline;
+
+
+    }
+    h1 {
+        font-family: fantasy;
+    }
+
+    h2{
+      font-family: 'Lucida Sans';
+    }
+
+    h3{
+      font-family: monospace;
+    }
+
+#imagenes {
+     width: 300px;
+    height: 200px;
+     }
+
+.columna {
+    column-count: 4;
+    column-gap: 40px;
+    column-rule-style: groove;
+    column-width: 100px;
+    box-sizing: border-box;
+    text-align: justify;
+    margin: 50px;
+    padding: 20px;
+    border-style: groove;
+    background-color: burlywood;
+}
+
+.fondoperiodico{
+    background-image: url(assets/fondo_periodico.jpg);
+    font-style:oblique;
+}
+    
